@@ -35,7 +35,7 @@
 
 3. リポジトリをクローンまたはZIPでダウンロード
     ```
-    git clone https://github.com/your-username/oodama-rolling-pyxel.git
+    git clone https://github.com/ogueki/Rolling-Ball-Game-Retro.git
 cd oodama-rolling-pyxel
 
 ## 実行方法
